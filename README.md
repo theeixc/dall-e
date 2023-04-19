@@ -5,4 +5,4 @@
 - server为后端。使用了[众神之谷](https://www.kamiya.dev/)提供的在线接口
   - 图片资源使用 `cloudinary` 以及云数据库 `MongoDB Atlas` 管理
 
-![主页](https://github.com/theeixc/dall-e/blob/main/client/src/assets/dall-e-home.png), '主页')
+![主页](https://github.com/theeixc/dall-e/blob/main/client/src/assets/dall-e-home.png))
